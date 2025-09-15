@@ -1,1 +1,52 @@
-"# AlfredJohnPenaflor_fg_exam2" 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Projects</title>
+</head>
+<body>
+    <center>
+        <img src="https://lh3.googleusercontent.com/a/ACg8ocLxf5-QX4Lt5UBhxD_K6pkWZGh4fNzsmWhFvzUNtcPcKXiSLA0=s288-c-no"
+
+
+        <br>
+        <h1>Alfred John M. Peñaflor</h1>
+     <h3>BSIT 1St YEAR</h3>
+    
+    <table>
+        <tr>
+            <hr>
+            <a href="FG_Exam 2.html">Home</a> |
+            <a href="FG_Exam 2.html">About</a> |
+            <a href="FG_Exam 2.html">Projects</a>
+        
+        </tr>
+    </table>
+    <hr>
+</center>
+<h1><b>My Projects</b></h1>
+<br>
+<h3><u>Web Development Projects</u></h3>
+<ul>
+    <li><b>Project 1: Personal Portfolio</b> - A simple HTML page showcasing my skills and interests.</li>
+    <li><b>Project 2: Responsive Photo Gallery</b> - A project using CSS for a grid layout that adapts to different screen sizes.</li>
+    <li><b>Project 3: Interactive To-Do List</b> - A small application build with JavaScript to manage daily tasks.</li>
+</ul>
+<br>
+<h3><u>Graphic Design Projects</u></h3>
+<ul>
+    <li><b> Logo Design Collection</b> - A series of logos created for different fictional brands.</li>
+    <li><b> Digital Art Series</b> - A collection of digital paintings and sketches.</li>
+</ul>
+<br>
+<br>
+<br>
+<center>
+<h5>Contact me: <u>20255901@s.ubaguio.edu</u> | Phone: +63 9625983059</h5>
+     <h5>Connect with me: <a href="FG_Exam 2.html">Facebook | GitHub | Twitter</a></h5>
+     <h5>&copy; 2025 Alfred John M. Peñaflor .All rights reserved.</h5>
+</center>  
+    
+</body>
+</html>
